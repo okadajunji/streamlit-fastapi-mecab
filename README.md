@@ -1,7 +1,10 @@
 # 概要
 StreamlitとFastAPIを連携させるコードにmecabを追加しました。<br>
-アプリURL: https://stream-it-fastapi.streamlit.app/
+アプリURL: https://stream-it-fastapi-mecab.streamlit.app/
 
+![app](images/app.png)
 
+# 使い方
+下記のリポジトリを参考にしてください。<br>
+https://github.com/okadajunji/streamlit-fastapi
 
-# 以上、おつかれさまでした！！
