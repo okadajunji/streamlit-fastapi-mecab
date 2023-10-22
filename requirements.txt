@@ -1,0 +1,8 @@
+fastapi
+streamlit
+python-multipart
+pandas
+Pillow
+uvicorn
+mecab-python3
+unidic-lite
