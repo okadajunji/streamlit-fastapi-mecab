@@ -5,6 +5,6 @@ StreamlitとFastAPIを連携させるコードにmecabを追加しました。<b
 ![app](images/app.png)
 
 # 使い方
-下記のリポジトリを参考にしてください。<br>
+下記のリポジトリのREADMEを参考にしてください。<br>
 https://github.com/okadajunji/streamlit-fastapi
 
